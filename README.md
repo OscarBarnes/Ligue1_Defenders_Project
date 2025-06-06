@@ -1,0 +1,1 @@
+In this project, I scraped the website FBref for data on teams in Ligue 1, and specifically some defenders. I aimed to find defenders that have gone under the radar that teams could potentially sign over the summer. I used python, specifically pandas, to orgainse my data and find some statistics.
