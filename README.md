@@ -1,1 +1,13 @@
-In this project, I scraped the website FBref for data on teams in Ligue 1, and specifically some defenders. I aimed to find defenders that have gone under the radar that teams could potentially sign over the summer. I used python, specifically pandas, to orgainse my data and find some statistics.
+Ligue 1 Defenders
+
+This project explores defensive players in France's Ligue 1, using data scraped from [FBref](https://fbref.com/) to identify underrated defenders who might be valuable transfer targets.
+
+Goals
+- Scrape team and player data from FBref
+- Use pandas to clean, filter, and analyse the data
+- Identify defenders who performed well under the radar
+
+Tools & Libraries
+- Python
+- pandas
+- Jupyter Notebook
